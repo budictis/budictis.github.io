@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://budictis.github.io/budictis.txt.gz
+Sitemap: https://budictis.github.io/app/budictis.txt.gz
+Sitemap: https://budictis.github.io/assets/budictis.txt.gz
+Sitemap: https://budictis.github.io/css/budictis.txt.gz
+Sitemap: https://budictis.github.io/includes/budictis.txt.gz
+Sitemap: https://budictis.github.io/item/budictis.txt.gz
+Sitemap: https://budictis.github.io/src/budictis.txt.gz
